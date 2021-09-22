@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import reportWebVitals from './reportWebVitals';
-import TodoContainer from "./components/TodoContainer"
+import { BrowserRouter } from 'react-router-dom';
+import TodoContainer from './components/TodoContainer';
+import './App.css';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <TodoContainer />
-  </React.StrictMode>,
-  document.getElementById("root")
-)
-
-reportWebVitals();
+  (
+    <React.StrictMode>
+      <BrowserRouter>
+        <TodoContainer />
+      </BrowserRouter>
+    </React.StrictMode>), document.getElementById('root'),
+);
