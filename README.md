@@ -1,3 +1,50 @@
+![](https://img.shields.io/badge/Microverse-blueviolet) 
+
+# Todo List | React Project.
+
+For this repository, I've created a project to create a React component, the main objective is to learn the way to create React apps using the official documentation, and following the next steps according to [this tutorial](https://ibaslogic.com/react-tutorial-for-beginners/)
+
+## Built With 🔨
+
+- JavaScript
+- HTML
+- CSS
+- React JS
+- Visual Studio Code
+- Git & Github
+
+### Install
+
+To get a local copy up and running follow these simple example steps.
+- Open terminal
+- Clone this project by the command: 
+
+```
+$ git clone https://github.com/DanteAlonsoHT/Math_magicians_ReactJS.git
+```
+
+- Then go to the main folder using the next command:
+
+```
+$ cd Math_magicians_ReactJS
+```
+
+- Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
+
+```
+$ npm start
+```
+
+### Prerequisites
+
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- [Node.js](https://nodejs.org/en/download/) already downloaded.
+
+
+### Usage
+
+- For anyone who wants to practice React skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +115,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+👤 **Dante Alonso**
+
+- GitHub: [@DanteAlonsoHT](https://github.com/DanteAlonsoHT)
+- Twitter: [@dante_dante1](https://twitter.com/dante_dante1)
+- LinkedIn: [Dante Alonso](https://www.linkedin.com/in/dante-alonso/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/DanteAlonsoHT/Math_magicians_ReactJS/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used 🔰
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 🏹
+- My family's support 🙌
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
